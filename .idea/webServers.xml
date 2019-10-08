@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c8034d9c-5411-4ecd-b528-8637adc232c3" name="mclab-1085" url="http://222.20.79.224">
+        <fileTransfer host="222.20.79.224" port="1085" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="1085" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4442b731-5907-4862-bb7e-3ea9b730ab84" name="yh" url="http://115.156.159.223">
+        <fileTransfer host="115.156.159.223" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
