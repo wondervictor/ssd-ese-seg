@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d180de9a-51b7-488d-ac52-53c95d55fa8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_ssd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eval_sbd_ssd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_sbd_ssd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo_yolo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/data/pascal_voc/detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/data/pascal_voc/detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/ssd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/yolo.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/yolo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/loss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/ssd.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/ssd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/target.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/target.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/yolo/yolo3.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/yolo/yolo3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/yolo/yolo_target.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/yolo/yolo_target.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/nn/coder.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/nn/coder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/utils/metrics/voc_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/utils/metrics/voc_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gluon-cv/gluoncv/utils/metrics/voc_polygon_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/gluon-cv/gluoncv/utils/metrics/voc_polygon_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/label_utils/cheby_fit.py" beforeDir="false" afterPath="$PROJECT_DIR$/label_utils/cheby_fit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/label_utils/label_centerdeg.py" beforeDir="false" afterPath="$PROJECT_DIR$/label_utils/label_centerdeg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/label_utils/train_coef_xml.py" beforeDir="false" afterPath="$PROJECT_DIR$/label_utils/train_coef_xml.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/label_utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/label_utils/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sbd_eval_che_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/sbd_eval_che_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sbd_train_che_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/sbd_train_che_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,9 +37,9 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -70,7 +48,7 @@
           <entry key="bash" value="2" />
           <entry key="gitignore" value="1" />
           <entry key="in" value="1" />
-          <entry key="md" value="4" />
+          <entry key="md" value="6" />
           <entry key="png" value="2" />
           <entry key="pstat" value="3" />
           <entry key="py" value="184" />
@@ -81,7 +59,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="2" />
-          <entry key="Markdown" value="4" />
+          <entry key="Markdown" value="6" />
           <entry key="PLAIN_TEXT" value="9" />
           <entry key="Profiler Session" value="3" />
           <entry key="Python" value="184" />
@@ -90,153 +68,135 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="md" value="25" />
           <entry key="py" value="3584" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="25" />
           <entry key="Python" value="3584" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6342551">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/ssd.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-4555">
-                  <caret line="238" column="36" selection-start-line="238" selection-end-line="239" />
-                  <folding>
-                    <element signature="e#38#76#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/target.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="468">
-                  <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-                  <folding>
-                    <element signature="e#37#75#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/nn/coder.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1608">
-                  <caret line="68" column="48" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="48" />
-                  <folding>
-                    <element signature="e#256#294#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/yolo.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-243">
-                  <caret line="183" column="3" lean-forward="true" selection-start-line="183" selection-start-column="3" selection-end-line="183" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/label_utils/utils.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2600">
-                  <caret line="270" column="21" lean-forward="true" selection-start-line="270" selection-start-column="21" selection-end-line="270" selection-end-column="21" />
-                  <folding>
-                    <element signature="e#0#9#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/demo_yolo.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="951">
-                  <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sbd_eval_che_8.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="58">
-                  <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#39#54#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/demo_ssd.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-34">
-                  <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-                  <folding>
-                    <element signature="e#24#33#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/ssd.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-2135">
-                  <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#64#102#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/eval_sbd_ssd.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1092">
-                  <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
-                  <folding>
-                    <element signature="e#0#31#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/eval_sbd_ssd.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="441">
-                  <caret line="164" column="43" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="67" />
-                  <folding>
-                    <element signature="e#0#31#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/target.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1029">
+              <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+              <folding>
+                <element signature="e#37#75#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="63">
+                <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/nn/coder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1428">
+              <caret line="68" column="48" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="48" />
+              <folding>
+                <element signature="e#256#294#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/yolo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3696">
+              <caret line="183" column="3" selection-start-line="183" selection-start-column="3" selection-end-line="183" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/label_utils/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5670">
+              <caret line="270" column="21" selection-start-line="270" selection-start-column="21" selection-end-line="270" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_yolo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1365">
+              <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sbd_eval_che_8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3024">
+              <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
+              <folding>
+                <element signature="e#39#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo_ssd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="987">
+              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/ssd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1239">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+              <folding>
+                <element signature="e#64#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eval_sbd_ssd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1092">
+              <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -292,6 +252,7 @@
         <option value="$PROJECT_DIR$/label_utils/train_coef_xml.py" />
         <option value="$PROJECT_DIR$/label_utils/utils.py" />
         <option value="$PROJECT_DIR$/demo_ssd.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -592,10 +553,9 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1981402" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20100144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="File Transfer" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
@@ -610,6 +570,7 @@
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32891566" />
       <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="File Transfer" order="14" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -678,11 +639,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gluon-cv/scripts/gan/cycle_gan/train_cgan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2361">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-2361" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gluon-cv/scripts/detection/yolo/train_yolo3.py">
@@ -760,16 +717,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quality.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/nn/predictor.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -947,19 +894,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="238" column="36" selection-start-line="238" selection-end-line="239" />
+          <folding>
+            <element signature="e#38#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/nn/coder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="68" column="48" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="48" />
+          <folding>
+            <element signature="e#256#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/yolo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3696">
+          <caret line="183" column="3" selection-start-line="183" selection-start-column="3" selection-end-line="183" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/label_utils/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2600">
-          <caret line="270" column="21" lean-forward="true" selection-start-line="270" selection-start-column="21" selection-end-line="270" selection-end-column="21" />
+        <state relative-caret-position="5670">
+          <caret line="270" column="21" selection-start-line="270" selection-start-column="21" selection-end-line="270" selection-end-column="21" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo_yolo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sbd_eval_che_8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
+        <state relative-caret-position="3024">
           <caret line="144" column="13" selection-start-line="144" selection-start-column="13" selection-end-line="144" selection-end-column="13" />
           <folding>
             <element signature="e#39#54#0" expanded="true" />
@@ -967,10 +948,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo_yolo.py">
+    <entry file="file://$PROJECT_DIR$/demo_ssd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="951">
-          <caret line="76" column="31" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="31" />
+        <state relative-caret-position="987">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/ssd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="e#64#102#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -984,60 +978,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo_ssd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/ssd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4555">
-          <caret line="238" column="36" selection-start-line="238" selection-end-line="239" />
-          <folding>
-            <element signature="e#38#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/nn/coder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1608">
-          <caret line="68" column="48" lean-forward="true" selection-start-line="68" selection-start-column="40" selection-end-line="68" selection-end-column="48" />
-          <folding>
-            <element signature="e#256#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/ssd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2135">
-          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
-          <folding>
-            <element signature="e#64#102#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/data/transforms/presets/yolo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="183" column="3" lean-forward="true" selection-start-line="183" selection-start-column="3" selection-end-line="183" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gluon-cv/gluoncv/model_zoo/ssd/target.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="1029">
           <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
           <folding>
             <element signature="e#37#75#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="63">
+            <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

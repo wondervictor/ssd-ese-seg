@@ -1,4 +1,4 @@
-Official implementation of [Explicit Shape Encoding for Real-time Instance Segmentation](https://arxiv.org/abs/1908.04067). 
+Unofficial implementation of [Explicit Shape Encoding for Real-time Instance Segmentation](https://arxiv.org/abs/1908.04067). 
 
 <p align='center'>
     <img src="quality.png", width="640">
@@ -29,7 +29,7 @@ Contents
 Other common package version is not very crucial.
 
 ### Features
-- Include both ESE-Seg(Yolov3-darknet53) and ESE-Seg(Yolov3-tiny).
+- Include **ESE-Seg(SSD)** ESE-Seg(Yolov3-darknet53) and ESE-Seg(Yolov3-tiny).
 - Good performance
 
   |416x416 |VOC2012 Test(mAP)| SBD Test(mAP)| Time per forward<br/>(batch size = 1)|
@@ -200,11 +200,7 @@ If you find our work is useful to your research, feel free to cite
   year={2019}
 }
 ```
-### Credits
-I got a lot of code from [gluon-cv](https://github.com/dmlc/gluon-cv.git), thanks to Gluoncv.
 
 ### Comments
 YOLOv3 in GluonCV is the best reimplemented YOLO so far, hence we build this system upon it. However, GluonCV is more a production code than research code, so even all we have to do is changing **dataloader and network prediction head**, it still took a lot of modification from original GluonCV. For research use, it is encouraged to use more light-weighted or more flexible detection framework, should make the implementation of our core idea easier.
 
-### Other Implementation
-[ESE-SEG](https://github.com/Haiyang-W/ESE-SEG.git)
